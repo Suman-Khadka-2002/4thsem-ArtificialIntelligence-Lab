@@ -1,0 +1,1 @@
+These are the lab programs of Artificial Intelligence subject from CSIT 4th semester.
